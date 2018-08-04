@@ -1,5 +1,8 @@
 const Files = require(require('path').join(__dirname, 'js', 'Main.js')).Files;
 
+bot.login(process.env.BOT_TOKEN);
+
+
 if(!process.send) {
 
 Files.initStandalone();
