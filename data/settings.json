@@ -1,1 +1,1 @@
-{"client":"475230104046403585","tag":"#","case":"true","separator":"\\s+","ownerId":"00xMZZQK-qLhj6tLCGmYh4Pp3ZqtUzc0"}
+{bot.login(process.env.BOT_TOKEN);, "client":"475230104046403585","tag":"#","case":"true","separator":"\\s+","ownerId":"00xMZZQK-qLhj6tLCGmYh4Pp3ZqtUzc0"}
